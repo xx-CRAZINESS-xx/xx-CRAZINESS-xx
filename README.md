@@ -14,4 +14,5 @@
 - Tensorflow Keras
 - Scikit-Learn
 - MySQL
-- Apache Hadoop,PySpark,Hive,Pig
+- NLTK, Word2Vec
+
